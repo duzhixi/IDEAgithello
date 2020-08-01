@@ -7,5 +7,6 @@ public class HelloGit {
         System.out.print("创建分支");
         System.out.print("主干添加");
         System.out.print("分支添加");
+        System.out.print("名称测试");
     }
 }
